@@ -2,6 +2,6 @@
 
 Thrilling experience.
 
-Check box
+Check box:
 
 1st task. Git intro completed.
