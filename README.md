@@ -8,4 +8,4 @@ Check box:
 
 ## Linux CLI, and HTTP
 
-![task_linux_cli](/kottans-frontend/task_linux_cli/task_linux_cli.JPG raw=true "Learn the Command Line")
+![task_linux_cli](/kottans-frontend/task_linux_cli/task_linux_cli.JPG?raw=true "Learn the Command Line")
