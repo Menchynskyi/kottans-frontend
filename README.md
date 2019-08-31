@@ -11,5 +11,3 @@ Thrilling experience. A lot of new information. The concept of version-control i
 Completed!
 
 ![Linux CLI](https://raw.githubusercontent.com/Menchynskyi/kottans-frontend/master/task_linux_cli/task_linux_cli.JPG "Learn the Command Line")
-
-Checking vscode
