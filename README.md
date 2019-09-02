@@ -20,9 +20,12 @@ There were a lot of new information and practice for me. I've already faced CLI 
 
 Completed!
 
+What is Version Control course.
 ![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/what_is_version_control.JPG "What is version control")
 
-
+GitHub & Collaboration course.
 ![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/github_collaboration.JPG "GitHub & Collaboration")
+
+Wow! That was amazing. After Git Intro task I thought I knew enough about Git and GitHub, but gosh i was wrong! Git is so powerfull tool and now I want to use it in every project. A lot of new info and now all are clearly.
 
 
