@@ -18,4 +18,11 @@ There were a lot of new information and practice for me. I've already faced CLI 
 
 ## Git for Team Collaboration
 
+Completed!
+
+![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/what_is_version_control.JPG "What is version control")
+
+
+![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/github_collaboration.JPG "GitHub & Collaboration")
+
 
