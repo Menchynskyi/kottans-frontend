@@ -51,3 +51,7 @@ Completed!
 Wow! That was amazing. After Git Intro task I thought I knew enough about Git and GitHub, but gosh i was wrong! Git is so powerfull tool and now I want to use it in every project. A lot of new info and now all are clearly.
 ***
 
+## Intro to HTML and CSS
+
+*Intro to HTML & CSS*
+![Intro to HTML and CSS]( "Intro to HTML and CSS")
