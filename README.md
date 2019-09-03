@@ -54,4 +54,4 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 ## Intro to HTML and CSS
 
 *Intro to HTML & CSS*
-![Intro to HTML and CSS]( "Intro to HTML and CSS")
+![Intro to HTML and CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.JPG "Intro to HTML and CSS")
