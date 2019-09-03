@@ -1,5 +1,21 @@
 # kottans-frontend
 
+- [x] [Git intro](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+- [x] Linux CLI, HTTP
+- [x] Git for Team Collaboration
+- [ ] Front-End Basics
+- [ ] Responsive Layouts
+- [ ] HTML & CSS Practice
+- [ ] JavaScript Basics
+- [ ] Document Object Model
+- [ ] Building a Tiny JS World (pre-OOP) - *practice*
+- [ ] Object-Oriented JavaScript - *practice*
+- [ ] OOP exercise - *practice*
+- [ ] Offline Web Applications - *optional*
+- [ ] Memory – Pair Game - *practice*
+- [ ] Website Performance Optimization - *optional*
+- [ ] Friends App - *practice*
+
 ## Git intro
 
 Completed!
