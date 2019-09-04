@@ -7,7 +7,7 @@
 - [x] [Git intro](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_intro)
 - [x] [Linux CLI, HTTP](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_linux_cli)
 - [x] [Git for Team Collaboration](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_collaboration)
-- [ ] Front-End Basics
+- [ ] Front-End Basics *ongoing*
 - [ ] Responsive Layouts
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
@@ -23,7 +23,7 @@
 
 ## Git intro
 
-Completed!
+*Completed!*
 
 ![Git Intro](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_intro/git_intro.JPG "Git and GitHub")
 
@@ -32,20 +32,21 @@ Thrilling experience. A lot of new information. The concept of version-control i
 
 ## Linux CLI, and HTTP
 
-Completed!
+*Completed!*
 
 ![Linux CLI](https://raw.githubusercontent.com/Menchynskyi/kottans-frontend/master/task_linux_cli/task_linux_cli.JPG "Learn the Command Line")
 
 There were a lot of new information and practice for me. I've already faced CLI in git intro task, but now  I feel more confidence. What about HTTP protocol it's rather unclear, but I will come back to that later.
 ***
+
 ## Git for Team Collaboration
 
-Completed!
+*Completed!*
 
-*What is Version Control course.*
+**What is Version Control course.**
 ![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/what_is_version_control.JPG "What is version control")
 
-*GitHub & Collaboration course.*
+**GitHub & Collaboration course.**
 ![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/github_collaboration.JPG "GitHub & Collaboration")
 
 Wow! That was amazing. After Git Intro task I thought I knew enough about Git and GitHub, but gosh i was wrong! Git is so powerfull tool and now I want to use it in every project. A lot of new info and now all are clearly.
@@ -53,5 +54,5 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 
 ## Front-End Basics
 
-*Intro to HTML & CSS*
+**Intro to HTML & CSS**
 ![Intro to HTML and CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.JPG "Intro to HTML and CSS")
