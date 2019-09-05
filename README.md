@@ -66,5 +66,5 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 **HTML Academy CSS**
 ![CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/html_academy_3.JPG "CSS")
 
-I've had html and css experience, but this task refreshed all this stuff in my memory so I can move forward. Maybe some new info about cascading, priority and selectors. Accidentally done html basics course, I guess it wouldn't hurt, tho. 😅
+I've already had html and css experience before this course, but this task refreshed all this stuff in my memory so I can move forward. Maybe some new info about cascading, priority and selectors. Accidentally done html basics course, I guess it wouldn't hurt, tho. 😅
 ***
