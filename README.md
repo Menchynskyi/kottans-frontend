@@ -7,8 +7,8 @@
 - [x] [Git intro](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_intro)
 - [x] [Linux CLI, HTTP](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_linux_cli)
 - [x] [Git for Team Collaboration](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_collaboration)
-- [ ] Front-End Basics *ongoing*
-- [ ] Responsive Layouts
+- [x] [Front-End Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_html_css_intro)
+- [ ] Responsive Layouts - ***ongoing***
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model
@@ -56,3 +56,15 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 
 **Intro to HTML & CSS**
 ![Intro to HTML and CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.JPG "Intro to HTML and CSS")
+
+**HTML Academy HTML & CSS**
+![HTML & CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/html_academy_1.JPG "HTML & CSS")
+
+**HTML Academy HTML**
+![HTML](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/html_academy_2.JPG "HTML")
+
+**HTML Academy CSS**
+![CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/html_academy_3.JPG "CSS")
+
+I've had html and css experience, but this task refreshed all this stuff in my memory so I can move forward. Maybe some new info about cascading, priority and selectors. Accidentally done html basics course, I guess it wouldn't hurt, tho. 😅
+***
