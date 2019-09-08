@@ -8,8 +8,8 @@
 - [x] [Linux CLI, HTTP](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_linux_cli)
 - [x] [Git for Team Collaboration](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_collaboration)
 - [x] [Front-End Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_html_css_intro)
-- [ ] Responsive Layouts - ***ongoing***
-- [ ] HTML & CSS Practice
+- [x] [Responsive Layouts](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_responsive_web_design)
+- [ ] HTML & CSS Practice - ***ongoing***
 - [ ] JavaScript Basics
 - [ ] Document Object Model
 - [ ] Building a Tiny JS World (pre-OOP) - *practice*
