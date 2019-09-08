@@ -68,3 +68,14 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 
 I've already had html and css experience before this course, but this task refreshed all this stuff in my memory so I can move forward. Maybe some new info about cascading, priority and selectors. Accidentally done html basics course, I guess it wouldn't hurt, tho. 😅
 ***
+
+## Responsive Web Design
+
+**Responsive Web Design Fundamentals**
+![Responsive Web Design Fundamentals](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_design_fundamentals.JPG "Responsive")
+
+**Flexbox Froggy**
+![Flexbox Froggy](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_responsive_web_design/flexbox_froggy.JPG "Flexbox Froggy")
+
+I've already faced bootstrap before, but that was kinda user experience not dev. Now I know more explicitly how the pattern works. P.S. an art - not a science. 😊
+***
