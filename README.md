@@ -9,8 +9,8 @@
 - [x] [Git for Team Collaboration](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_collaboration)
 - [x] [Front-End Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_html_css_intro)
 - [x] [Responsive Layouts](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_responsive_web_design)
-- [ ] HTML & CSS Practice - ***ongoing***
-- [ ] JavaScript Basics
+- [x] [HTML & CSS Practice](https://github.com/Menchynskyi/popup-html-css)
+- [ ] JavaScript Basics - ***ongoing***
 - [ ] Document Object Model
 - [ ] Building a Tiny JS World (pre-OOP) - *practice*
 - [ ] Object-Oriented JavaScript - *practice*
@@ -81,4 +81,4 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 ***
 
 ## HTML & CSS practice
-[**Css popup**](menchynskyi.github.io/popup-html-css)
+[**Css popup**](https://menchynskyi.github.io/popup-html-css/)
