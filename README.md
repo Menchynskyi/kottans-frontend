@@ -79,3 +79,6 @@ I've already had html and css experience before this course, but this task refre
 
 I've already faced bootstrap before, but that was kinda user experience not dev. Now I know more explicitly how the pattern works. P.S. an art - not a science. 😊
 ***
+
+## HTML & CSS practice
+[**Css popup**](menchynskyi.github.io/popup-html-css)
