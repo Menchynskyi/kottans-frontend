@@ -82,3 +82,7 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 
 ## HTML & CSS practice
 [**Css popup**](https://menchynskyi.github.io/popup-html-css/)
+***
+
+## JS Basics
+![Intro to JS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/intro_to_js.JPG "Intro to JS")
