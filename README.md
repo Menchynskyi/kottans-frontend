@@ -82,8 +82,9 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 
 ## HTML & CSS practice
 
-[repo](https://github.com/Menchynskyi/popup-html-css)
-[demo](https://menchynskyi.github.io/popup-html-css/)
+**Popup**
+* [repo](https://github.com/Menchynskyi/popup-html-css)
+* [demo](https://menchynskyi.github.io/popup-html-css/)
 
 **Requirements:**
 * no JavaScript, only HTML/CSS, use of preprocessors is allowed
