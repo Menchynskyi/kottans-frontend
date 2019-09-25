@@ -100,11 +100,11 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 
 **FreeCodeCamp exercises**
 * [Basic JavaScript](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_javascript.PNG)
-* [ES6 Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/es6_challenges.JPG)
-* [Basic Data Structures](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_data_structures.JPG)
-* [Basic Algorithm Scripting](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_algorithm_scripting.JPG)
-* [Functional Programming](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/functional_programming.JPG)
-* [Algorithm Scripting Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/algorithm_scripting_challenges.JPG)
+* [ES6 Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/es6_challenges.jpg)
+* [Basic Data Structures](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_data_structures.jpg)
+* [Basic Algorithm Scripting](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_algorithm_scripting.jpg)
+* [Functional Programming](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/functional_programming.jpg)
+* [Algorithm Scripting Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/algorithm_scripting_challenges.jpg)
 
-That was quite tough. Sometimes I had to use hints and to google a lot. After my true solutions I've compared my code with their and tried to figure out how could I do it better. It took a long time.
+That was quite tough. I had to use hints and google a lot. After my true solutions I've compared my code with their and tried to figure out how could I do it better. It took a long time.
 ***
