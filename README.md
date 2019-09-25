@@ -10,8 +10,8 @@
 - [x] [Front-End Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_html_css_intro)
 - [x] [Responsive Layouts](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_responsive_web_design)
 - [x] [HTML & CSS Practice](https://github.com/Menchynskyi/popup-html-css)
-- [ ] JavaScript Basics - ***ongoing***
-- [ ] Document Object Model
+- [x] [JavaScript Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_js_basics)
+- [ ] Document Object Model - ***ongoing***
 - [ ] Building a Tiny JS World (pre-OOP) - *practice*
 - [ ] Object-Oriented JavaScript - *practice*
 - [ ] OOP exercise - *practice*
@@ -23,7 +23,6 @@
 
 ## Git intro
 
-*Completed!*
 
 ![Git Intro](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_intro/git_intro.JPG "Git and GitHub")
 
@@ -32,7 +31,6 @@ Thrilling experience. A lot of new information. The concept of version-control i
 
 ## Linux CLI, and HTTP
 
-*Completed!*
 
 ![Linux CLI](https://raw.githubusercontent.com/Menchynskyi/kottans-frontend/master/task_linux_cli/task_linux_cli.JPG "Learn the Command Line")
 
@@ -41,7 +39,6 @@ There were a lot of new information and practice for me. I've already faced CLI 
 
 ## Git for Team Collaboration
 
-*Completed!*
 
 **What is Version Control course.**
 ![Git Collaboration](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_git_collaboration/what_is_version_control.JPG "What is version control")
@@ -53,6 +50,7 @@ Wow! That was amazing. After Git Intro task I thought I knew enough about Git an
 ***
 
 ## Front-End Basics
+
 
 **Intro to HTML & CSS**
 ![Intro to HTML and CSS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_html_css_intro/intro_to_html_and_css.JPG "Intro to HTML and CSS")
@@ -71,6 +69,7 @@ I've already had html and css experience before this course, but this task refre
 
 ## Responsive Web Design
 
+
 **Responsive Web Design Fundamentals**
 ![Responsive Web Design Fundamentals](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_responsive_web_design/responsive_web_design_fundamentals.JPG "Responsive")
 
@@ -81,6 +80,7 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 ***
 
 ## HTML & CSS practice
+
 
 **Popup**
 * [repo](https://github.com/Menchynskyi/popup-html-css)
@@ -93,4 +93,18 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 ***
 
 ## JS Basics
+
+
+**Intro to JS**
 ![Intro to JS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/intro_to_js.JPG "Intro to JS")
+
+**FreeCodeCamp exercises**
+* [Basic JavaScript](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_javascript.PNG)
+* [ES6 Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/es6_challenges.JPG)
+* [Basic Data Structures](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_data_structures.JPG)
+* [Basic Algorithm Scripting](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/basic_algorithm_scripting.JPG)
+* [Functional Programming](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/functional_programming.JPG)
+* [Algorithm Scripting Challenges](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_basics/algorithm_scripting_challenges.JPG)
+
+That was quite tough. Sometimes I had to use hints and to google a lot. After my true solutions I've compared my code with their and tried to figure out how could I do it better. It took a long time.
+***
