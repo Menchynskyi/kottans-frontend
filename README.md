@@ -83,8 +83,8 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 
 
 **Popup**
-* [repo](https://github.com/Menchynskyi/popup-html-css)
 * [demo](https://menchynskyi.github.io/popup-html-css/)
+* [repo](https://github.com/Menchynskyi/popup-html-css)
 
 **Requirements:**
 * no JavaScript, only HTML/CSS, use of preprocessors is allowed
@@ -108,3 +108,18 @@ I've already faced bootstrap before, but that was kinda user experience not dev.
 
 That was quite tough. I had to use hints and google a lot. After my true solutions I've compared my code with their and tried to figure out how could I do it better. It took a long time.
 ***
+
+## DOM
+
+
+**JavaScript and the DOM**
+![JavaScript and the DOM](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/javascript_and_the_dom.JPG "JavaScript and the DOM")
+
+**freecodecamp Algorithm Scripting Challenges**
+![freecodecamp](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/freecodecamp_algorithm_scripting_challenges.JPG "freecodecamp")
+
+**Practical task**
+* [demo](https://menchynskyi.github.io/interactive-side-menu/)
+* [repo](https://github.com/Menchynskyi/interactive-side-menu)
+
+Finally, practical implementation of JavaScript.
