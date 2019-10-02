@@ -113,10 +113,10 @@ That was quite tough. I had to use hints and google a lot. After my true solutio
 
 
 **JavaScript and the DOM**
-![JavaScript and the DOM](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/javascript_and_the_dom.JPG "JavaScript and the DOM")
+![JavaScript and the DOM](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/javascript_and_the_dom.jpg "JavaScript and the DOM")
 
 **freecodecamp Algorithm Scripting Challenges**
-![freecodecamp](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/freecodecamp_algorithm_scripting_challenges.JPG "freecodecamp")
+![freecodecamp](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_dom/freecodecamp_algorithm_scripting_challenges.jpg "freecodecamp")
 
 **Practical task**
 * [demo](https://menchynskyi.github.io/interactive-side-menu/)
