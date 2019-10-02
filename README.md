@@ -11,8 +11,8 @@
 - [x] [Responsive Layouts](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_responsive_web_design)
 - [x] [HTML & CSS Practice](https://github.com/Menchynskyi/popup-html-css)
 - [x] [JavaScript Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_js_basics)
-- [ ] Document Object Model - ***ongoing***
-- [ ] Building a Tiny JS World (pre-OOP) - *practice*
+- [x] [Document Object Model](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_js_dom)
+- [ ] Building a Tiny JS World (pre-OOP) - *practice* - ***ongoing***
 - [ ] Object-Oriented JavaScript - *practice*
 - [ ] OOP exercise - *practice*
 - [ ] Offline Web Applications - *optional*
