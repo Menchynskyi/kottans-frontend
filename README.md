@@ -5,13 +5,13 @@
 **Progress list**
 
 - [x] [Git intro](#git-intro)
-- [x] [Linux CLI, HTTP](#linux-cli,-http)
+- [x] [Linux CLI, HTTP](#linux-cli-and-http)
 - [x] [Git for Team Collaboration](#git-for-team-collaboration)
 - [x] [Front-End Basics](#front-end-basics)
-- [x] [Responsive Layouts](#responsive-layouts)
-- [x] [HTML & CSS Practice](#html-&-css-practice)
-- [x] [JavaScript Basics](#javaScript-basics)
-- [x] [Document Object Model](#document-object-model)
+- [x] [Responsive Layouts](#responsive-web-design)
+- [x] [HTML & CSS Practice](#html--css-practice)
+- [x] [JavaScript Basics](#js-basics)
+- [x] [Document Object Model](#dom)
 - [ ] Building a Tiny JS World (pre-OOP) - *practice* - ***ongoing***
 - [ ] Object-Oriented JavaScript - *practice*
 - [ ] OOP exercise - *practice*
