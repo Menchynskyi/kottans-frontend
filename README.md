@@ -4,14 +4,14 @@
 
 **Progress list**
 
-- [x] [Git intro](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_intro)
-- [x] [Linux CLI, HTTP](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_linux_cli)
-- [x] [Git for Team Collaboration](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_git_collaboration)
-- [x] [Front-End Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_html_css_intro)
-- [x] [Responsive Layouts](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_responsive_web_design)
-- [x] [HTML & CSS Practice](https://github.com/Menchynskyi/popup-html-css)
-- [x] [JavaScript Basics](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_js_basics)
-- [x] [Document Object Model](https://github.com/Menchynskyi/kottans-frontend/tree/master/task_js_dom)
+- [x] [Git intro](#git-intro)
+- [x] [Linux CLI, HTTP](#linux-cli,-http)
+- [x] [Git for Team Collaboration](#git-for-team-collaboration)
+- [x] [Front-End Basics](#front-end-basics)
+- [x] [Responsive Layouts](#responsive-layouts)
+- [x] [HTML & CSS Practice](#html-&-css-practice)
+- [x] [JavaScript Basics](#javaScript-basics)
+- [x] [Document Object Model](#document-object-model)
 - [ ] Building a Tiny JS World (pre-OOP) - *practice* - ***ongoing***
 - [ ] Object-Oriented JavaScript - *practice*
 - [ ] OOP exercise - *practice*
