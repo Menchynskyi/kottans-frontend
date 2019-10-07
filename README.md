@@ -12,9 +12,9 @@
 - [x] [HTML & CSS Practice](#html--css-practice)
 - [x] [JavaScript Basics](#js-basics)
 - [x] [Document Object Model](#dom)
-- [ ] Building a Tiny JS World (pre-OOP) - *practice* - ***ongoing***
-- [ ] Object-Oriented JavaScript - *practice*
-- [ ] OOP exercise - *practice*
+- [x] [Building a Tiny JS World (pre-OOP) - *practice*](https://menchynskyi.github.io/a-tiny-JS-world/)
+- [x] [Object-Oriented JavaScript - *practice*](#object-oriented-js)
+- [ ] OOP exercise - *practice* - ***ongoing***
 - [ ] Offline Web Applications - *optional*
 - [ ] Memory – Pair Game - *practice*
 - [ ] Website Performance Optimization - *optional*
@@ -123,3 +123,16 @@ That was quite tough. I had to use hints and google a lot. After my true solutio
 * [repo](https://github.com/Menchynskyi/interactive-side-menu)
 
 Finally, practical implementation of JavaScript.
+***
+
+## Object Oriented JS
+
+**Udacity Object Oriented JS**
+![Object Oriented JS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_oop/object_oriented_js.jpg "Object Oriented JS")
+
+**Codewars**
+[Codewars Profile](https://www.codewars.com/users/Menchynskyi)
+
+A lot of new information about OOP in JS. Now I know how I can improve my tiny js world by using inheritance to not repeat myself. Also there were a lot of concepts that I heard about, but now it's more clearly how I can use them in practice. Btw codewars is awesome!
+***
+
