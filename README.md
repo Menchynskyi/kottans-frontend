@@ -130,8 +130,10 @@ Finally, practical implementation of JavaScript.
 **Udacity Object Oriented JS**
 ![Object Oriented JS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_oop/object_oriented_js.jpg "Object Oriented JS")
 
+
+
 **Codewars**
-[Codewars Profile](https://www.codewars.com/users/Menchynskyi)
+* [Codewars Profile](https://www.codewars.com/users/Menchynskyi)
 
 A lot of new information about OOP in JS. Now I know how I can improve my tiny js world by using inheritance to not repeat myself. Also there were a lot of concepts that I heard about, but now it's more clearly how I can use them in practice. Btw codewars is awesome!
 ***
