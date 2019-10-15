@@ -15,9 +15,9 @@
 - [x] [Building a Tiny JS World (pre-OOP) - *practice*](https://menchynskyi.github.io/a-tiny-JS-world/)
 - [x] [Object-Oriented JavaScript - *practice*](#object-oriented-js)
 - [x] [OOP exercise - *practice*](https://menchynskyi.github.io/a-tiny-JS-world/)
-- [ ] Offline Web Applications - *optional* - ***ongoing***
-- [ ] Memory – Pair Game - *practice*
-- [ ] Website Performance Optimization - *optional*
+- [x] [Offline Web Applications - *optional*](#offline-web-applications)
+- [x] [Memory – Pair Game - *practice*](#memory-pair-game)
+- [ ] Website Performance Optimization - *optional* - ***ongoing***
 - [ ] Friends App - *practice*
 ***
 
@@ -127,6 +127,7 @@ Finally, practical implementation of JavaScript.
 
 ## Object Oriented JS
 
+
 **Udacity Object Oriented JS**
 ![Object Oriented JS](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_js_oop/object_oriented_js.jpg "Object Oriented JS")
 
@@ -135,3 +136,16 @@ Finally, practical implementation of JavaScript.
 
 A lot of new information about OOP in JS. Now I know how I can improve my tiny js world by using inheritance to not repeat myself. Also there were a lot of concepts that I heard about, but now it's more clearly how I can use them in practice. Btw codewars is awesome!
 ***
+
+## Offline Web Applications
+
+
+![Offline Web Applications](https://github.com/Menchynskyi/kottans-frontend/blob/master/task_offline_web_app/offline-web-applications.jpg "Offline Web Applications")
+
+That was tough. I'm not sure i've understood all of that stuff, but I have a lot to research by myself. Anyway offline first is a great concept and now I know a little more about service worker etc.
+***
+
+## Memory Pair Game
+
+* [demo](https://menchynskyi.github.io/memory-pair-game/)
+* [repo](https://github.com/Menchynskyi/memory-pair-game)
